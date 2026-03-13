@@ -1,0 +1,1 @@
+# SWTID-2026-8915-Integrate-Zscaler-with-Identity-Providers-IdPs-such-as-Azure-AD.
